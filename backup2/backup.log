@@ -1,0 +1,27 @@
+2021/10/26 16:52:28 [23489] building file list
+2021/10/26 16:52:28 [23489] .d..t...... /backup/2021/10/19/
+2021/10/26 16:52:28 [23489] >f+++++++++ /backup/2021/10/19/upstart-job.conf
+2021/10/26 16:52:28 [23489] sent 1,106 bytes  received 54 bytes  2,320.00 bytes/sec
+2021/10/26 16:52:28 [23489] total size is 901  speedup is 0.78
+/backup2/backup//2021/10/1/
+/backup2/backup//2021/10/1/FILES
+/backup2/backup//2021/10/1/1.tgz
+/backup2/backup//2021/10/1/INSTALL
+/backup2/backup//2021/10/14/
+/backup2/backup//2021/10/14/1.tgz
+/backup2/backup//2021/10/14/1/
+/backup2/backup//2021/10/14/1/FILES
+/backup2/backup//2021/10/14/1/INSTALL
+/backup2/backup//2021/10/19/
+/backup2/backup//2021/10/19/upstart-job.conf
+/backup2/backup//2021/10/19/1.tgz
+/backup2/backup//2021/10/19/INSTALL
+/backup2/backup//2021/10/2/
+/backup2/backup//2021/10/2/VMwareTools-10.3.21-14772444.tar.gz
+/backup2/backup//2021/10/2/upstart-job.conf
+/backup2/backup//2021/10/2/1.tgz
+/backup2/backup//2021/10/2/services.sh
+/backup2/backup//2021/10/2/vgauth.conf
+/backup2/backup//2021/10/2/vmware-install.pl
+/backup2/backup//2021/10/2/inventory
+/backup2/backup//2021/10/2/guestproxy-ssl.conf
